@@ -1,0 +1,119 @@
+<html>
+	<head>
+		<title>benASTRO</title>
+		<script src="https://unpkg.com/typewriter-effect@latest/dist/core.js"></script>
+		<link rel="icon" href="img/headimg.png" />
+        <meta charset="utf-8"/> 
+	</head>
+	<body>
+		<div id="output">
+            Put:
+			<span id="a"><b>C:\Users\benASTRO</b>&gt;</span>
+            Put:
+            <span><b>ls ./about/</b></span> 
+
+			<br />
+			<br />
+
+			Put:
+
+			<br />
+			<br />
+
+			German IT Student and creator of twitch bot ApuDoingStuff
+
+            <br />
+			<br />
+            Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Description
+			<br />
+            _____&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;___________
+            <br />
+			<br />
+            <a href="https://github.com/benASTRO/ApuDoingStuff"> <b>ApuDoingStuff.exe</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>C# Twitch Bot with a collecting game
+    
+            <br />
+            <br />
+            <br />
+    
+            <span id="a"><b>C:\Users\benASTRO</b>&gt;</span>
+            Put:
+            <span><b>ls ./socials/</b></span> 
+            Put:
+            <br />
+            <br />
+            <br />
+            <br />
+
+            Name
+
+            <br />
+            _____
+            <br />
+            <br />
+    
+            <a href="https://github.com/benASTRO/"> <b>GitHub.exe</b></a>
+
+            <br />
+            <br />
+    
+            <a href="https://twitter.com/benASTR0"> <b>Twitter.exe</b></a>
+    
+            <br />
+            <br />
+    
+            <a href="https://twitch.com/benASTRO"> <b>Twitch.exe</b></a>
+    
+            <br />
+            <br />
+    
+            <a href="https://open.spotify.com/user/trydeep"> <b>Spotify.exe</b></a>
+
+            <br />
+            <br />
+    
+            <a href="https://discordapp.com/users/529307272359444490/"> <b>Discord.exe</b></a>
+        </div>
+	</body>
+</html>
+<style>
+	body {
+		background-color: #000;
+	}
+	#output {
+		font-family: 'Source Code Pro';
+		color: #fff;
+		width: 750px;
+		margin-left: auto;
+		margin-right: auto;
+		margin-top: 100px;
+		font-size: 16px;
+        color: white;
+	}
+	a {
+		color: #00d480;
+		text-decoration: none;
+	}
+	#a {
+		color: #FF9F00;
+	}
+	#c {
+		color: #3b78ff;
+	}
+	#b {
+		color: #00d9ff;
+	}
+</style>
+<script>
+	var text = document.getElementById('output');
+    var textArr = text.innerHTML.split('Put:');
+
+	var typewriter = new Typewriter(text, {
+		loop: false,
+		delay: 30,
+		autoStart: true,
+		cursor: '|',
+	});
+
+	typewriter.typeString(textArr[0]).pasteString(textArr[1]).typeString(textArr[2]).pasteString(textArr[3]).typeString(textArr[4]).pasteString(textArr[5]).start();
+</script>
+
