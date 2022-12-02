@@ -1,6 +1,5 @@
 <p align="center">
-<iframe src="https://giphy.com/embed/dNTr0hRNegpLW" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/welcome-dNTr0hRNegpLW">via GIPHY</a></p>
-</p>
+<img src="https://media4.giphy.com/media/dNTr0hRNegpLW/200.webp?cid=ecf05e47y4tx9fubo9jvg8yyfk4x9y74fc064e0jqvrnmz9s&rid=200.webp&ct=g">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" alt="benASTRO's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benastro&layout=compact&theme=github_dark&hide_border=true&langs_count=10&hide_title=true" width="100%"/>
 </a>
