@@ -4,13 +4,11 @@
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
 **🐱 My GitHub Data** 
 
 > 📦 97.6 kB Used in GitHub's Storage 
  > 
-> 🏆 63 Contributions in the Year 2025
+> 🏆 64 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -18,6 +16,31 @@
  > 
 > 🔑 10 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
+🌆 Daytime                60 commits          ███████░░░░░░░░░░░░░░░░░░   29.70 % 
+🌃 Evening                111 commits         ██████████████░░░░░░░░░░░   54.95 % 
+🌙 Night                  21 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Berlin
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in C#** 
 
 ```text
@@ -35,5 +58,5 @@ Prolog                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BenSchwegmann/BenSchwegmann/main/assets/bar_graph.png)
 
 
- Last Updated on 27/12/2025 23:02:31 UTC
+ Last Updated on 27/12/2025 23:06:17 UTC
 <!--END_SECTION:waka-->
